@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "title":"Movie 1",
+        "rating":8.5,
+        "releaseDate":"01-01-2020"
+    },
+    {
+        "id":2,
+        "title":"Movie 2",
+        "rating":8.4,
+        "releaseDate":"02-02-2020"
+    },
+    {
+        "id":3,
+        "title":"Movie 3",
+        "rating":8.3,
+        "releaseDate":"03-03-2020"
+    },
+    {
+        "id":4,
+        "title":"Movie 4",
+        "rating":8.3,
+        "releaseDate":"04-04-2020"
+    },
+    {
+        "id":5,
+        "title":"Movie 5",
+        "rating":8.2,
+        "releaseDate":"05-05-2020"
+    },
+    {
+        "id":6,
+        "title":"Movie 6",
+        "rating":8.1,
+        "releaseDate":"06-06-2020"
+    },
+    {
+        "id":7,
+        "title":"Movie 7",
+        "rating":8.0,
+        "releaseDate":"07-07-2020"
+    },
+    {
+        "id":8,
+        "title":"Movie 8",
+        "rating":7.1,
+        "releaseDate":"08-08-2020"
+    },
+    {
+        "id":9,
+        "title":"Movie 9",
+        "rating":7.5,
+        "releaseDate":"09-09-2020"
+    },
+    {
+        "id":10,
+        "title":"Movie 10",
+        "rating":8.5,
+        "releaseDate":"10-10-2020"
+    },
+    {
+        "id":11,
+        "title":"Movie 11",
+        "rating":8.9,
+        "releaseDate":"11-11-2021"
+    },
+    {
+        "id":12,
+        "title":"Movie 12",
+        "rating":8.5,
+        "releaseDate":"12-12-2020"
+    },
+    {
+        "id":13,
+        "title":"Movie 13",
+        "rating":9.1,
+        "releaseDate":"13-01-2019"
+    },
+    {
+        "id":14,
+        "title":"Movie 14",
+        "rating":8.8,
+        "releaseDate":"14-01-2020"
+    },
+    {
+        "id":15,
+        "title":"Movie 15",
+        "rating":8.7,
+        "releaseDate":"15-05-2020"
+    },
+    {
+        "id":16,
+        "title":"Movie 16",
+        "rating":8.5,
+        "releaseDate":"17-09-2020"
+    },
+    {
+        "id":17,
+        "title":"Movie 17",
+        "rating":9.5,
+        "releaseDate":"16-09-2021"
+    },
+    {
+        "id":18,
+        "title":"Movie 18",
+        "rating":8.5,
+        "releaseDate":"18-01-2020"
+    },
+    {
+        "id":19,
+        "title":"Movie 19",
+        "rating":7.5,
+        "releaseDate":"19-01-2020"
+    },
+    {
+        "id":20,
+        "title":"Movie 20",
+        "rating":9.5,
+        "releaseDate":"20-01-2020"
+    }
+]
